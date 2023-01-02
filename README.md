@@ -1,4 +1,4 @@
-
+![logo](https://github.com/harishsarmav/harishsarmav/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
 <h1 align="center">Hi 👋, I'm Harish Sarma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
