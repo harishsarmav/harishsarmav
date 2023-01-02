@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harishsarmav
-- 👀 I’m interested in Learning languages and technologies..Photography..Travel.. 
+- 👀 I’m interested in Learning languages..technologies..Photography and Travel.. 
 - 🌱 I’m currently learning AWS DevOps 
 - 📫 Reach me on mail: harishsarma.v@gmail.com
 
