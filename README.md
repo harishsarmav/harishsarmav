@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/harishsarma_v" target="blank"><img src="https://img.shields.io/twitter/follow/harishsarma_v?logo=twitter&style=for-the-badge" alt="harishsarma_v" /></a> </p>
 
-- 🔭 I’m currently working on **roboshop**
+- 🔭 I’m currently working on **Roboshop Project**
 
 - 🌱 I’m currently learning **DevOps**
 
