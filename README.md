@@ -8,10 +8,10 @@
 
 <p align='center'>
   
-  <a href="https://twitter.com/harishsarma_v" target="blank"><img src="https://img.shields.io/twitter/follow/harishsarma_v?logo=twitter&style=for-the-badge" alt="harishsarma_v" /></a>&nbsp;&nbsp;
-   <a href="https://www.instagram.com/harishsharma_v/" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;  
+  ![Twitter URL](https://img.shields.io/twitter/url?label=follow%20%7C%20%40harishsarma_v&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fharishsarma_v)&nbsp;&nbsp;
+   ![Twitter URL](https://img.shields.io/twitter/url?label=follow%20%7C%20%40harishsharma_v&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fharishsharma_v%2F)&nbsp;&nbsp;  
 </p>
+
 
 - 🔭 I’m currently working on **Roboshop Project**
 
