@@ -19,8 +19,6 @@
 
 - 🤝 I’m looking for help with **Networking Concepts**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harishsarmav/harishsarmav](https://github.com/harishsarmav/harishsarmav)
-
 - 💬 Ask me about **AWS DevOps, Siri Automations**
 
 - 📫 How to reach me **harishsarma.v@gmail.com**
