@@ -6,10 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsarmav&label=Profile%20views&color=0e75b6&style=flat" alt="harishsarmav" /> </p>
 
-<p align='center'>
+<p align='left'>
   
-  ![Twitter URL](https://img.shields.io/twitter/url?label=follow%20%7C%20%40harishsarma_v&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fharishsarma_v)&nbsp;&nbsp;
-   ![Twitter URL](https://img.shields.io/twitter/url?label=follow%20%7C%20%40harishsharma_v&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fharishsharma_v%2F)&nbsp;&nbsp;  
+<a href="https://twitter.com/harishsarma_v/">
+  <img src="https://img.shields.io/twitter/url?label=follow%20%7C%20%40harishsarma_v&logo=twitter&style=for-the-badge&url=https://twitter.com/harishsarma_v" />
+  </a>&nbsp;&nbsp;
+<a href="https://twitter.com/harishsarma_v/">
+ <img src="https://img.shields.io/twitter/url?label=follow%20%7C%20%40harishsharma_v&logo=instagram&style=for-the-badge&url=https://www.instagram.com/harishsharma_v" />
+  </a>&nbsp;&nbsp;
 </p>
 
 
