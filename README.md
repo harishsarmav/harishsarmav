@@ -1,21 +1,10 @@
 ![logo](https://github.com/harishsarmav/harishsarmav/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
-<h1 align="center">Hi <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 35px; display: inline-block;" data-target="animated-image.originalImage"></a>, I'm HARISH SARMA</h1>
+<h1 align="center">Hi,<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 35px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma!</h1>
 <h3 align="center">A Passionate ENGINEER from India 🇮🇳</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsarmav&label=Profile%20views&color=0e75b6&style=flat" alt="harishsarmav" /> </p>
-
-<p align='left'>
-  
-<a href="https://twitter.com/harishsarma_v/">
-  <img src="https://img.shields.io/twitter/url?label=follow%20%7C%20%40harishsarma_v&logo=twitter&style=for-the-badge&url=https://twitter.com/harishsarma_v" />
-  </a>&nbsp;&nbsp;
-<a href="https://twitter.com/harishsarma_v/">
- <img src="https://img.shields.io/twitter/url?label=follow%20%7C%20%40harishsharma_v&logo=instagram&style=for-the-badge&url=https://www.instagram.com/harishsharma_v" />
-  </a>&nbsp;&nbsp;
-</p>
-
 
 - 🔭 I’m currently working on **Roboshop Project**
 
@@ -40,7 +29,7 @@
 
 ### ⚡️ GitHub Stats:
 
-  <img align="centre" alt="harishsarmav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harishsarmav&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="centre" alt="harishsarmav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harishsarmav&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" />
 
    ### 👨🏻‍💻 Languages Used: 
 
@@ -49,6 +38,20 @@
 ---
 
 ###
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   18 hrs 46 mins  ██████████████▒░░░░░░░░░░   57.71 %
+JavaScript   11 hrs 9 mins   ████████▓░░░░░░░░░░░░░░░░   34.30 %
+Bash         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Groovy       32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+CSS          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+```
+
+<!--END_SECTION:waka-->
 
 ### 🔥 Github Streaks:
 
