@@ -39,16 +39,6 @@
 
 ###
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:waka-->
-
 ### 🔥 Github Streaks:
 
 </details>
