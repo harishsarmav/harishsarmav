@@ -41,6 +41,28 @@
 <img src="https://github-readme-stats.vercel.app/api?username=harishsarmav&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishsarmav&layout=compact&theme=dark)](https://github.com/harishsarmav/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav" />
+</picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav&theme=dark" alt="harishsarmav" /></p>
+<br>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=harishsarmav&layout=compact&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=harishsarmav&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishsarmav" />
+</picture>
