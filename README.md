@@ -56,11 +56,9 @@
 <picture>
 <source 
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
+  media="(prefers-color-scheme: dark)" width="350"/>
 <source
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav" />
 </picture>
