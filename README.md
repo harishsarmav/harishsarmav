@@ -12,8 +12,9 @@
 
 - 🤝 I’m looking for help with **Networking Concepts**
 
-- 📫 How to reach me <a href = "mailto: harishsarma.v@gmail.com">Send Email</a>
+- 🎙 I like to talk about **AWS DevOps, iOS Automations**
 
+- 📫 How to reach me <a href = "mailto: harishsarma.v@gmail.com">Send Email</a>
 
 ---
 
