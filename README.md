@@ -12,8 +12,6 @@
 
 - 🤝 I’m looking for help with **Networking Concepts**
 
-- 💬 Ask me about **AWS DevOps, Siri Automations**
-
 - 📫 How to reach me <a href = "mailto: harishsarma.v@gmail.com">Send Email</a>
 
 ---
