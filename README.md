@@ -46,6 +46,6 @@
   media="(prefers-color-scheme: dark)" width="350"/>
 <source
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="350"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav" />
 </picture>
