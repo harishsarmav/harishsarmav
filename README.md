@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsarmav&label=Profile%20views&color=0e75b6&style=flat" alt="harishsarmav" /> </p>
 
-- 🔭 I’m currently working on **Roboshop Project**
+- 🔭 I’m currently working on **eCommerce Project**
 
-- 🌱 I’m currently learning **AWS DevOps**
+- 🌱 I’m currently learning **AWS-DevOps**
 
 - 🤝 I’m looking for help with **Networking Concepts**
 
-- 🎙 I like to talk about **AWS DevOps, iOS Automations**
+- 🎙 I like to talk about **AWS-DevOps, iOS Automations**
 
 - 📫 Reach me on, [email](mailto:harishsarma.v@gmail.com) :) also check ⬇️
 
