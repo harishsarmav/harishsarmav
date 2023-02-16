@@ -14,7 +14,16 @@
 
 - 🎙 I like to talk about **AWS DevOps, iOS Automations**
 
-- 📫 How to reach me <a href = "mailto: harishsarma.v@gmail.com">Send Email</a>
+- 📫 Reach me on, [email](mailto:harishsarma.v@gmail.com) :) also check ⬇️
+
+<p align='left'>
+<a href="https://twitter.com/harishsarma_v/">
+  <img src="https://img.shields.io/twitter/url?label=follow%20%7C%20%40harishsarma_v&logo=twitter&style=for-the-badge&url=https://twitter.com/harishsarma_v" />
+  </a>&nbsp;&nbsp;
+<a href="https://twitter.com/harishsarma_v/">
+ <img src="https://img.shields.io/twitter/url?label=follow%20%7C%20%40harishsharma_v&logo=instagram&style=for-the-badge&url=https://www.instagram.com/harishsharma_v" />
+  </a>&nbsp;&nbsp;
+</p>
 
 ---
 
