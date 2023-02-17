@@ -1,4 +1,4 @@
-![logo](https://github.com/harishsarmav/harishsarmav/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comforta&size=32&pause=1000&color=25BD4A&background=FFFFFF00&width=1080&height=80&lines=Hello+there!;Welcome+to+my+profile!;Have+a+good+day+😀)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsarmav&label=Profile%20views&color=0e75b6&style=flat" alt="harishsarmav" /></p>
 
