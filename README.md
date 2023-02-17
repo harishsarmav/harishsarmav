@@ -35,8 +35,18 @@
 
 ### ⚡️ GitHub Stats:
 
-  <img align="centre" alt="harishsarmav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harishsarmav&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" />
-<img align="centre" alt="Most used langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishsarmav&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+| General         | Most Used Languages |
+|--------------|:-----:|
+| <img align="centre" alt="harishsarmav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harishsarmav&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="400" /> | <img align="centre" alt="Most used langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishsarmav&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> |  
+
+
+
+
+
+
+
+  
+
 
 ###
 
