@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsarmav&label=Profile%20views&color=0e75b6&style=flat" alt="harishsarmav" /></p>
 
-<p align="left" src="https://giphy.com/embed/CcwLAV11cALh3OuEJ5" width="480" height="144" /></p>
-
 <h1 align="center">Hi,<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 35px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma!</h1> 
 
 <h3 align="center">A Passionate ENGINEER from India 🇮🇳</h3>
