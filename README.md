@@ -59,9 +59,9 @@
 <picture>
 <source 
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav&theme=dark"
-  media="(prefers-color-scheme: dark)" width="350"/>
+  media="(prefers-color-scheme: dark)" width="400"/>
 <source
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="350"/>
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="400"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav" />
 </picture>
