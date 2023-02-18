@@ -40,13 +40,11 @@
 
 | General         | Most Used Languages |
 |--------------|:-----:|
-| <img align="centre" alt="harishsarmav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harishsarmav&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="400" /> | <img align="centre" alt="Most used langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishsarmav&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> |  
+| <img align="centre" alt="harishsarmav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harishsarmav&show_icons=true&hide_border=true&theme=transparent" width="350" /> | <img align="centre" alt="Most used langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishsarmav&layout=compact&show_icons=true&hide_border=true&theme=transparent" /> |  
 
 ###
 
 ---
-
-
 
 ###
 
@@ -58,10 +56,10 @@
  <summary?:fire: Github Streaks</summary>
 <picture>
 <source 
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav&theme=dark"
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav&theme=dark&hide_border=true"
   media="(prefers-color-scheme: dark)" width="400"/>
 <source
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav"
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav&hide_border=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="400"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav" />
 </picture>
