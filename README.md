@@ -51,7 +51,7 @@
 
 |  **GENERAL ACTIVITY**        | **MOST USED LANGUAGES** |
 |--------------|:-----:|
-| <img align="centre" alt="harishsarmav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harishsarmav&show_icons=true&hide_border=true&theme=transparent&" width="500" /> | <img align="centre" alt="Most used langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishsarmav&layout=compact&show_icons=true&hide_border=true&theme=transparent" /> |  
+| <img align="centre" alt="harishsarmav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harishsarmav&show_icons=true&hide_border=true&theme=transparent&" width="500" /> | <img align="centre" alt="Most used langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishsarmav&layout=compact&show_icons=true&hide_border=true&theme=transparent" width="450" /> |  
 
 
 ###
