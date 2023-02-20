@@ -42,9 +42,6 @@
 |--------------|:-----:|
 | <img align="centre" alt="harishsarmav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harishsarmav&show_icons=true&hide_border=true&theme=transparent&" width="400" /> | <img align="centre" alt="Most used langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishsarmav&layout=compact&show_icons=true&hide_border=true&theme=transparent" /> |  
 
-###
-
----
 
 ###
 
@@ -63,3 +60,11 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="400"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav" />
 </picture>
+
+###
+
+---
+
+### 📈 GitHub Activity:
+
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harishsarmav&theme=github-compact&width=400)](https://github.com/harishsarmav/github-readme-activity-graph)
