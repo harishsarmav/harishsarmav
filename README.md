@@ -8,7 +8,7 @@
 
 > 🔭 I’m currently working on 👉 **eCommerce Project**
 
->🌱 I’m currently learning 👉 **AWS-DevOps** from @r-devops
+>🌱 I’m currently learning 👉 **AWS-DevOps**
 
 >🤝 I’m looking for help with 👉 **Networking Concepts**
 
