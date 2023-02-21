@@ -6,15 +6,20 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-> 🔭 I’m currently working on 👉 **eCommerce Project**
+### About me:
+> "Hey there! I'm Harish Sarma 🇮🇳, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga, reading a good book, hang out with my friends or watching a movie. I'm excited to connect with like-minded individuals and share experiences. Let's connect and get to know each other!"
 
->🌱 I’m currently learning 👉 **AWS-DevOps**
+---
 
->🤝 I’m looking for help with 👉 **Networking Concepts**
+>> 🔭 I’m currently working on 👉 **eCommerce Project**
 
-> 🎙 I like to talk about 👉 **AWS-DevOps, iOS Automations**
+>>🌱 I’m currently learning 👉 **AWS-DevOps**
 
-> 📫 Reach me on, [email](mailto:harishsarma.v@gmail.com) :) also check 👇
+>>🤝 I’m looking for help with 👉 **Networking Concepts**
+
+>> 🎙 I like to talk about 👉 **AWS-DevOps, iOS Automations**
+
+>> 📫 Reach me on, [email](mailto:harishsarma.v@gmail.com) :) also check 👇
 
 <p align='left'>
 <a href="https://twitter.com/harishsarma_v/">
@@ -59,7 +64,7 @@
 
 ---
 
-### :octocat: Github Streaks:
+### :octocat: Github Streaks: 
 
 </details>
  <summary?:fire: Github Streaks</summary>
