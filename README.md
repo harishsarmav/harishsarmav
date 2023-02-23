@@ -15,7 +15,7 @@ Hey there! I'm Harish Sarma 🇮🇳, a lover of all things creative and adventu
 
 >🌱 I’m currently learning 👉 **AWS-DevOps**
 
->🤝 I’m looking for help with 👉 **Networking Concepts**
+<!-- >🤝 I’m looking for help with 👉 **Networking Concepts** -->
 
 > 🎙 I like to talk about 👉 **AWS-DevOps, iOS Automations**
 
