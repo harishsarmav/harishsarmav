@@ -81,12 +81,3 @@ Hey there! I'm Harish Sarma 🇮🇳, a lover of all things creative and adventu
 ### 📈 GitHub Activity:
 
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harishsarmav&theme=github-compact&width=400)](https://github.com/harishsarmav/github-readme-activity-graph)
-
-### 🎵 My Current Playlist:
-
-<!-- [![Spotify]("https://open.spotify.com/embed/playlist/1B7wwunK6Iczs889qUBBys?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"> (https://api.spotify.com/v1/playlist/1B7wwunK6Iczs889qUBBys)
- -->
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/1B7wwunK6Iczs889qUBBys)
-
-<!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1B7wwunK6Iczs889qUBBys?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
- -->
