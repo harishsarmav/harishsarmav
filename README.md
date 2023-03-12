@@ -13,7 +13,7 @@ Hey there! I'm Harish Sarma 🇮🇳, a lover of all things creative and adventu
 
 > 🔭 I’m currently working on 👉 **eCommerce Project**
 
->🌱 I’m currently learning 👉 **AWS-DevOps**
+<!-- >🌱 I’m currently learning 👉 **AWS-DevOps** -->
 
 <!-- >🤝 I’m looking for help with 👉 **Networking Concepts** -->
 
