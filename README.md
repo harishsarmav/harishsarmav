@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comforta&weight=400&size=60&pause=30&color=DF4616&width=1600&height=100&lines=Hello+there!;Welcome+to+my+profile!;I'm+a+passionate+ENGINEER+from+India!)](https://git.io/typing-svg)
 
-<h2 align="center">Hi,<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 35px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma!</h2> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsarmav&label=Profile%20views&color=0e75b6&style=flat" alt="harishsarmav" /></p> 
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="center" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### About me 🙋🏻‍♂️:
-Hey there! I'm Harish Sarma 🇮🇳, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga, reading a good book, hang out with my friends or watching a movie. I'm excited to connect with like-minded individuals and share experiences. Let's connect and get to know each other!
+Hi,<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 35px; display: inline-block;" data-target="animated-image.originalImage"></a> **I'm Harish Sarma!** 🇮🇳, a lover of all things **creative and adventurous**. I enjoy **exploring new places**, **learning** new things , and meeting new people. In my free time, you can find me practicing **yoga**, **reading** a good book, hang out with my **friends** or watching a **movie**. I'm excited to connect with like-minded individuals and share experiences. Let's connect and get to know each other!
 
 ---
 
@@ -21,7 +20,7 @@ Hey there! I'm Harish Sarma 🇮🇳, a lover of all things creative and adventu
 
 > 📫 Reach me on, [email](mailto:harishsarma.v@gmail.com) :) also check 👇
 
-[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/harishsarma_v?share_id=V45oBtaQQwm7INm3yDDQuw&locale=en_IN) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Relevant-Plantain615/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/harishsarma_v#8667) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jcbymrsflp4n5iwiel3of4shey?si=an-T-vRORLejYeh3k6BNIg) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/harishsarma.velavalapalli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/harishsarma_v) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/harishsharma_v)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Relevant-Plantain615/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/harishsarma_v#8667) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jcbymrsflp4n5iwiel3of4shey?si=an-T-vRORLejYeh3k6BNIg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/harishsarma_v) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/harishsharma_v) [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/harishsarma_v?share_id=V45oBtaQQwm7INm3yDDQuw&locale=en_IN)
 
 ---
 
