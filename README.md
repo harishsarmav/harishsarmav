@@ -6,7 +6,7 @@
 <img align="center" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### About me 🙋🏻‍♂️:
-<p> Hey there! <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma <img alt="coding" width="25" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Medium-Light%20Skin%20Tone.png" 
+<p> Hey there! <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma from <img alt="coding" width="25" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Medium-Light%20Skin%20Tone.png" 
 alt="Man Cartwheeling Medium-Light Skin Tone" 
 width="25" 
 height="25" />, reading a good book <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" 
@@ -91,3 +91,9 @@ I'm excited to connect with like-minded individuals and share experiences. Let's
 ### 📈 GitHub Activity:
 
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harishsarmav&theme=github-compact&width=400)](https://github.com/harishsarmav/github-readme-activity-graph)
+
+
+ <h3> Vibing to <img alt="Timer" width="30" src="https://discadia.com/emojis_res/e0b9a253-b9ea-4c16-b844-d7cca075991e.gif/48/48"> <img alt="Timer" width="30" src="https://emoji.discadia.com/emojis/978d4b20-687b-49ae-ac6d-639705af765e.gif"> <img alt="Timer" width="30" src="https://discadia.com/emojis_res/e0b9a253-b9ea-4c16-b844-d7cca075991e.gif/48/48">
+ </h3>
+ 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/1B7wwunK6Iczs889qUBBys?utm_source=generator)
