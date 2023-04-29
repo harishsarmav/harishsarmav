@@ -94,7 +94,7 @@ I'm excited to connect with like-minded individuals and share experiences. Let's
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harishsarmav&theme=github-compact&width=400)](https://github.com/harishsarmav/github-readme-activity-graph)
 
 
- <h3> Vibing to <img alt="Timer" width="30" src="https://discadia.com/emojis_res/e0b9a253-b9ea-4c16-b844-d7cca075991e.gif/48/48"> <img alt="Timer" width="30" src="https://emoji.discadia.com/emojis/978d4b20-687b-49ae-ac6d-639705af765e.gif"> <img alt="Timer" width="30" src="https://discadia.com/emojis_res/e0b9a253-b9ea-4c16-b844-d7cca075991e.gif/48/48">
+ <h3> Vibing to <img alt="Timer" width="30" src="https://emoji.discadia.com/emojis/981aeaad-564c-4642-9063-4ef3e7d090f4.gif"> <img alt="Timer" width="30" src="https://emoji.discadia.com/emojis/978d4b20-687b-49ae-ac6d-639705af765e.gif"> <img alt="Timer" width="30" src="https://emoji.discadia.com/emojis/981aeaad-564c-4642-9063-4ef3e7d090f4.gif">
  </h3>
  
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/1B7wwunK6Iczs889qUBBys?utm_source=generator)
