@@ -5,7 +5,7 @@
 
 <img align="center" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-### About me 🙋🏻‍♂️:
+<!-- ### About me 🙋🏻‍♂️:
 <p> Hey there! <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma from <img alt="coding" width="25" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Medium-Light%20Skin%20Tone.png" 
 alt="Man Cartwheeling Medium-Light Skin Tone" 
 width="25" 
@@ -17,17 +17,24 @@ alt="Grinning Face with Smiling Eyes"
 width="25" 
 height="25" />, playing games 🎮 or watching a movie 🍿.</p> 
 
-I'm excited to connect with like-minded individuals and share experiences. Let's connect and get to know each other!
+I'm excited to connect with like-minded individuals and share experiences. Let's connect and get to know each other! -->
+
+### 🌟 <ins> **About Me**</ins> 🌟
+
+<p> Hey There❗️
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> </p>
+    
+<p> I'm Harish Sarma hailing from <img alt="India" width="20" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">, and im all about embracing creativity  and embarking on thrilling adventures 🌍✨. In my free time, you'll find me practicing yoga 🧘🏻‍♂️ , reading a good book 📚, catching up with friends 🤝, But i also love gaming 🎮 or indulging in movie nights with a big tub of popcorn! 🍿🎥...</p> 
+
+<p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other❗️ </p>
 
 ---
 
-> 📫 Reach me on 👇 
+### 📫 Reach me on 👇 
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Relevant-Plantain615/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/harishsarma_v#8667) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jcbymrsflp4n5iwiel3of4shey?si=an-T-vRORLejYeh3k6BNIg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/harishsarma_v)
 
 ---
-
-###
 
 ### 🧰 Languages and Tools:
 
@@ -40,7 +47,6 @@ I'm excited to connect with like-minded individuals and share experiences. Let's
 
 ---
 
-### 
 
 ### ⚡️ GitHub Stats:
 
@@ -48,8 +54,6 @@ I'm excited to connect with like-minded individuals and share experiences. Let's
 |--------------|:-----:|
 | <img align="centre" alt="harishsarmav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harishsarmav&show_icons=true&hide_border=true&theme=transparent&" width="500" /> | <img align="centre" alt="Most used langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishsarmav&layout=compact&show_icons=true&hide_border=true&theme=transparent" width="450" /> |  
 
-
-###
 
 ---
 
@@ -66,9 +70,6 @@ I'm excited to connect with like-minded individuals and share experiences. Let's
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="500"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav" />
 </picture>
-
-###
-
 
 ---
 
