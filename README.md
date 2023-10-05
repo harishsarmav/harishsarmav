@@ -24,7 +24,7 @@ I'm excited to connect with like-minded individuals and share experiences. Let's
 <p> Hey There❗️
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> </p>
     
-<p> I'm Harish Sarma hailing from <img alt="India" width="20" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">, and im all about embracing creativity  and embarking on thrilling adventures 🌍✨. In my free time, you'll find me practicing yoga 🧘🏻‍♂️ , reading a good book 📚, catching up with friends 🤝, But i also love gaming 🎮 or indulging in movie nights with a big tub of popcorn! 🍿🎥...</p> 
+<p> I'm Harish Sarma hailing from <img alt="India" width="20" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">, and im all about embracing creativity  and embarking on thrilling adventures 🌍✨. In my free time, you'll find me practicing yoga 🧘🏻‍♂️, reading a good book 📚, catching up with friends 🤝, But i also love gaming 🎮 or indulging in movie nights with a big tub of popcorn! 🍿🎥...</p> 
 
 <p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other❗️ </p>
 
