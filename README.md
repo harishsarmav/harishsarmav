@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comforta&weight=400&size=60&pause=30&color=DF4616&width=1600&height=100&lines=Hello+there!;Welcome+to+my+profile!;I'm+a+passionate+ENGINEER+from+India!)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comforta&weight=400&size=60&pause=30&color=DF4616&width=1600&height=100&lines=Hello+there!;Welcome+to+my+profile!;I'm+a+passionate+ENGINEER+from+India!)](https://git.io/typing-svg) -->
 
+</a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=800&color=C2FF00&width=435&lines=Hello+there!;Welcome+to+my+profile!;Thank+you+for+visiting!!" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsarmav&label=Profile%20views&color=0e75b6&style=flat" alt="harishsarmav" /></p> 
 
@@ -73,12 +74,4 @@ I'm excited to connect with like-minded individuals and share experiences. Let's
 
 ---
 
-### 📈 GitHub Activity:
-
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harishsarmav&theme=github-compact&width=400)](https://github.com/harishsarmav/github-readme-activity-graph)
-
-
- <h3> Vibing to <img alt="Timer" width="30" src="https://emoji.discadia.com/emojis/981aeaad-564c-4642-9063-4ef3e7d090f4.gif"> <img alt="Timer" width="30" src="https://emoji.discadia.com/emojis/978d4b20-687b-49ae-ac6d-639705af765e.gif"> <img alt="Timer" width="30" src="https://emoji.discadia.com/emojis/981aeaad-564c-4642-9063-4ef3e7d090f4.gif">
- </h3>
- 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/1B7wwunK6Iczs889qUBBys?utm_source=generator)
+<!-- ### 📈 GitHub Activity -->
